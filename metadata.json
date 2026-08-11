@@ -1,0 +1,6 @@
+{
+  "name": "Lumina CSV",
+  "description": "Agente inteligente para upload e consulta em linguagem natural de arquivos CSV e ZIPs com SQL e visualizações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
